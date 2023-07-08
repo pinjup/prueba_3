@@ -262,7 +262,7 @@ export default function Main_content() {
 
                     <p>Here, you will find an array of stunning pieces that will take your home decor <br /> to the next level. Our furniture combines aesthetic appeal with functionality <br /> to give you the best of both worlds.</p>
 
-                    <Button_exit size='large' bg_color='bg-[#fbd464]' text='Explore Products' icon={false} text_color='text-black' />
+                    <Button_exit size='large' bg_color='#fbd464' text='Explore Products' icon={false} text_color='black' />
 
                 </div>
 
@@ -304,7 +304,7 @@ export default function Main_content() {
                         <p className="text-white font-extralight text-center text-xs leading-5">Experience comfort and style with our handcrafted furniture <br /> discover the story behind our passionate mission.</p>
                     </div>
 
-                    <Button_exit size='normal' bg_color='bg-[#fbd464]' text='Learn More' icon={false} text_color='text-black' />
+                    <Button_exit size='normal' bg_color='#fbd464' text='Learn More' icon={false} text_color='black' />
                     
                 </div>
 
@@ -349,7 +349,7 @@ export default function Main_content() {
                             
                         </ul>
 
-                        <Button_exit size='normal' bg_color='bg-[#7aa668]' text='Learn More' icon={false} text_color='text-white' />
+                        <Button_exit size='normal' bg_color='#7aa668' text='Learn More' icon={false} text_color='white' />
 
                     </div>
 
@@ -437,7 +437,7 @@ export default function Main_content() {
                     </div>
 
                     <div className="button_container">
-                        <Button_exit size='large' bg_color='bg-[#7aa668]' text='See All Products' icon={false} text_color='text-white' />
+                        <Button_exit size='large' bg_color='#7aa668' text='See All Products' icon={false} text_color='white' />
                     </div>
                 </div>
 
@@ -519,7 +519,7 @@ export default function Main_content() {
                         
                         <input type="text" placeholder="Enter email address"  />
 
-                        <Button_exit size='normal' bg_color='bg-[#fbd464]' text='Subscribe' icon={true} text_color='text-black'>
+                        <Button_exit size='normal' bg_color='#fbd464' text='Subscribe' icon={true} text_color='black'>
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-3 h-3">
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                             </svg>
